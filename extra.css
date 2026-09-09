@@ -1,0 +1,7 @@
+#title-slide {
+  color: #fff;
+}
+
+#title-slide > h1 {
+  display: none;
+}

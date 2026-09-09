@@ -1,14 +1,15 @@
 ---
 title: "rainbowR"
-author: Ella Kaye, RSECon26
-date: 2026-09-10
-date-format: long
+title-slide-attributes:
+  data-background-image: images/title-slide-rsecon26.svg
+  data-background-size: contain
 format: 
   rainbowrpres-revealjs:
     progress: false
     menu: false
     slide-number: false
     margin: 0.2
+    css: extra.css
 ---
 
 
