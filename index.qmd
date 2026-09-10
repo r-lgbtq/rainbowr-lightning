@@ -12,6 +12,10 @@ format:
     css: extra.css
 ---
 
+# [rainbowR]{.yellow} {.inverse .larger150}
+
+a [community]{.green} that
+[connects]{.red}, [supports]{.orange} and [promotes]{.yellow} [LGBTQ+]{.pink} people in the [R community]{.blue} and spreads awareness of [LGBTQ+]{.pink} issues through [data-driven activism]{.green}
 
 ## {.inverse .center .center-h .larger200}
 
@@ -21,28 +25,12 @@ We [exist]{.yellow}
 
 How to [get involved]{.orange}
 
-# [rainbowR]{.yellow} {.inverse .larger150}
-
-a [community]{.green} that
-[connects]{.red}, [supports]{.orange} and [promotes]{.yellow} [LGBTQ+]{.pink} people in the [R community]{.blue} and spreads awareness of [LGBTQ+]{.pink} issues through [data-driven activism]{.green}
 
 ## {background-image="images/rainbowR-latest-meetup.png" background-size="contain"}
 
 ## {background-image="images/rainbowR-latest-buddies.png" background-size="contain"}
 
-## {.inverse .center-h}
-
-[conference.rainbowr.org]{.blue .larger250}
-
-</br>
-
-[Late spring 2027]{.green .larger200}
-
-</br>
-
-. . .
-
-[Are you interested in helping organise?]{.yellow .larger150}
+## {background-image="images/rainbowR-conf-2027-announce.svg" background-size="contain"}
 
 ## {.center-h}
 
